@@ -1,5 +1,5 @@
 import cdsapi
-
+print("wassup")
 c = cdsapi.Client()
 
 c.retrieve(
